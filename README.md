@@ -92,8 +92,5 @@ BUILD SUCCESS
 
 ### 8️⃣ Add Screenshot of Jenkins Build Success
 
-```markdown
 ### Jenkins Build Success Screenshot
 <img width="1090" height="711" alt="image" src="https://github.com/user-attachments/assets/3f8c4718-2738-4f21-b0ba-1e3dff44ea55" />
-
-```
