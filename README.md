@@ -94,6 +94,6 @@ BUILD SUCCESS
 
 ```markdown
 ### Jenkins Build Success Screenshot
-(![Jenkins Build Success](<img width="1090" height="711" alt="image" src="https://github.com/user-attachments/assets/7f406da0-f6c4-42ae-a334-e6abd2b71bba" />
-))
+<img width="1090" height="711" alt="image" src="https://github.com/user-attachments/assets/3f8c4718-2738-4f21-b0ba-1e3dff44ea55" />
+
 ```
